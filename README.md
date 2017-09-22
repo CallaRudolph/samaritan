@@ -8,10 +8,24 @@
 
 This web application allows users to take a survey about their community service activities over the past year. The program gives the user a score on a results page, which is used to match them to a celebrity good samaritan as well as suggest local organizations where they can continue to serve. The profile page lists a summary of all the good deeds the user has completed throughout the past year from the survey, as well as a to do list for the user to add tasks which they would like to complete. Clicking on the task moves it to the summary list. This is a practice in using object-oriented Javascript and is our first group project in Intro to Programming, Epicodus.
 
+## Screenshots
+![Splash page](img/splash.png)
+
+![Survey](img/survey.png)
+
+![Results](img/total.png)
+
+![To Do](img/list.png)
+
 ## Setup
 
-Sign into GitHub and copy URL. In local terminal, type command "git clone [paste URL here]" To open this application in atom from local terminal, type "atom . " To open in browser, type "open index.html" into terminal.
-
+* Open Github site in your browser: https://github.com/CallaRudolph/samaritan
+* Select green drop-down box to Clone or Download
+* Open Terminal on your computer and follow these steps:
+  * `$ cd desktop`
+  * `$ git clone <paste repository-url>`
+  * `$ cd samaritan`
+  * `$ open index.html` to view in browser
 
 ## Specifications
 
@@ -39,7 +53,7 @@ Sign into GitHub and copy URL. In local terminal, type command "git clone [paste
 
 ## Technologies Used
 
-Javascript, jquery-3, Bootstrap, CSS, HTML5
+JavaScript, jQuery-3, Bootstrap, CSS, HTML5
 
 ### License
 This software is licensed under the MIT license.
